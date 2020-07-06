@@ -1,0 +1,2 @@
+本NotebookはGitHubで公開されているサンプルを日本語化し、一部の手順を変更及び簡略化したものになります。サンプルの最新バージョンについては以下のURLを参照ください。
+https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/automated-machine-learning/classification-bank-marketing-all-features/auto-ml-classification-bank-marketing-all-features.ipynb
